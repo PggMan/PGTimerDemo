@@ -1,0 +1,10 @@
+.DS_Store
+.svn/
+HYFinancial.xcodeproj/project.xcworkspace/xcshareddata/
+HYFinancial.xcodeproj/project.xcworkspace/xcuserdata/
+HYFinancial.xcodeproj/xcuserdata/
+HYFinancial.xcworkspace/xcuserdata/
+Pods/Pods.xcodeproj/xcuserdata/
+Pods/Pods.xcodeproj/xcuserdata/smalldark.xcuserdatad
+Pods/Pods.xcodeproj/xcuserdata/smalldark.xcuserdatad/xcschemes
+Pods/Pods.xcodeproj/xcuserdata/smalldark.xcuserdatad/xcschemes/xcschememanagement.plist
