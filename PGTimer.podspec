@@ -7,7 +7,7 @@ s.summary      = "GCD Timer"
 s.homepage     = "https://github.com/PggMan/PGTimerDemo"
 s.license      = "MIT"
 s.author             = { "PggMan" => "pg890101@gmail.com" }
-s.source       = { :git => "https://github.com/PggMan/PGTimerDemo", :tag => s.version }
+s.source       = { :git => "https://github.com/PggMan/PGTimerDemo.git", :tag => s.version }
 s.source_files  = 'PGTimerDemo/PGTimer/*.{h,m}'
 s.requires_arc = true
 end
