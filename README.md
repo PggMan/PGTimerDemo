@@ -1,3 +1,10 @@
+#Cocoapods
+
+```objc
+$ pod search PGTimer
+```
+
+
 # PGTimerDemo
 一个适用于多线程的GCD定时器
 
